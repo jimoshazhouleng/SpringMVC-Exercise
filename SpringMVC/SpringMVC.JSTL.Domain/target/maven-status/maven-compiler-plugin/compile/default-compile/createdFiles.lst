@@ -1,0 +1,7 @@
+beans\CategoryImpl.class
+service\BookServiceImpl.class
+service\BookService.class
+beans\Category.class
+beans\BookImpl.class
+beans\Book.class
+controller\BookController.class
